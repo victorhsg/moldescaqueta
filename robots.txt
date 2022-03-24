@@ -1,6 +1,6 @@
 User-agent: *
 Disallow
-
+set
 
 <HQWERTY>
 rom div = cov a
@@ -30,4 +30,4 @@ div> flow= page disable: xyz.MoldesDigitales1.html
   <div>
 Flow: Filezillla = 0.1 34% 24px x 43px x 1998px
 <end>
-
+victorhsg-patch-1
