@@ -1,5 +1,11 @@
 User-agent: *
-Disallow:
+Disallow
+
+
+<HQWERTY>
+rom div = cov a
+
+
 ref="https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesCaqueta1.html"
 ref="https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html"
 direct link = "https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html"
