@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/23-1-294x166.png" type="image/x-icon">
   <meta name="description" content="Pagina dedicada a la venta digital de moldes de todo tipo para la fabricación de calzado,Somos Moldes Caqueta.">
-  
   <title>Moldes Caqueta1</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
