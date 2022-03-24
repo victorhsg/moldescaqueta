@@ -11,7 +11,10 @@ allaow all page
 https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html
 edit> page="https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html" <
 <div>
+ref= "https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html"
  <div>
+ eidt: https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html
+ 
    <div>
     <div>
 row =https://moldescaquetapruebafinal.on.drv.tw/WEB FINAL 2/MoldesDigitales1.html
