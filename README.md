@@ -1,14 +1,10 @@
-
 <head>
-  <!-- Site made with Mobirise Website Builder v5.5.8, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v5.5.8, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/23-1-294x166.png" type="image/x-icon">
-  <meta name="description" content="Pagina dedicada a la venta digital de moldes de todo tipo para la fabricación de calzado,Somos Moldes Caqueta.
-">
-  
+  <meta name="description" content="Pagina dedicada a la venta digital de moldes de todo tipo para la fabricación de calzado,Somos Moldes Caqueta.">
   
   <title>Moldes Caqueta1</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -26,15 +22,11 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
-  
-  
-  
 </head>
 <body>
   
   <section data-bs-version="5.1" class="menu menu1 cid-sXqXDiVbxk" once="menu" id="menu1-v">
     
-
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
         <div class="container-fluid">
             <div class="navbar-brand">
@@ -64,9 +56,7 @@
 </section>
 
 <section data-bs-version="5.1" class="header1 cid-sUJr6RIyRI mbr-fullscreen" data-bg-video="https://www.youtube.com/watch?v=uhWS6yebLJE" id="header1-8">
-
-    
-
+  
     <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(68, 121, 217);"></div>
 
     <div class="container">
